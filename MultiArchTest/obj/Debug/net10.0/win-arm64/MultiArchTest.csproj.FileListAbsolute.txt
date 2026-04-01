@@ -1,0 +1,14 @@
+C:\Users\Abby\source\repos\MultiArchTest\MultiArchTest\bin\Debug\net10.0\win-arm64\MultiArchTest.exe
+C:\Users\Abby\source\repos\MultiArchTest\MultiArchTest\bin\Debug\net10.0\win-arm64\MultiArchTest.deps.json
+C:\Users\Abby\source\repos\MultiArchTest\MultiArchTest\bin\Debug\net10.0\win-arm64\MultiArchTest.runtimeconfig.json
+C:\Users\Abby\source\repos\MultiArchTest\MultiArchTest\bin\Debug\net10.0\win-arm64\MultiArchTest.dll
+C:\Users\Abby\source\repos\MultiArchTest\MultiArchTest\bin\Debug\net10.0\win-arm64\MultiArchTest.pdb
+C:\Users\Abby\source\repos\MultiArchTest\MultiArchTest\obj\Debug\net10.0\win-arm64\MultiArchTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abby\source\repos\MultiArchTest\MultiArchTest\obj\Debug\net10.0\win-arm64\MultiArchTest.AssemblyInfoInputs.cache
+C:\Users\Abby\source\repos\MultiArchTest\MultiArchTest\obj\Debug\net10.0\win-arm64\MultiArchTest.AssemblyInfo.cs
+C:\Users\Abby\source\repos\MultiArchTest\MultiArchTest\obj\Debug\net10.0\win-arm64\MultiArchTest.csproj.CoreCompileInputs.cache
+C:\Users\Abby\source\repos\MultiArchTest\MultiArchTest\obj\Debug\net10.0\win-arm64\MultiArchTest.dll
+C:\Users\Abby\source\repos\MultiArchTest\MultiArchTest\obj\Debug\net10.0\win-arm64\refint\MultiArchTest.dll
+C:\Users\Abby\source\repos\MultiArchTest\MultiArchTest\obj\Debug\net10.0\win-arm64\MultiArchTest.pdb
+C:\Users\Abby\source\repos\MultiArchTest\MultiArchTest\obj\Debug\net10.0\win-arm64\MultiArchTest.genruntimeconfig.cache
+C:\Users\Abby\source\repos\MultiArchTest\MultiArchTest\obj\Debug\net10.0\win-arm64\ref\MultiArchTest.dll
